@@ -1,0 +1,4 @@
+interface:
+  display_name: "code-to-disclosure"
+  short_description: "代码证据驱动的技术交底起草、追溯与多轮复核工作流"
+  default_prompt: "Use $code-to-disclosure in this repository for a code-grounded technical disclosure."

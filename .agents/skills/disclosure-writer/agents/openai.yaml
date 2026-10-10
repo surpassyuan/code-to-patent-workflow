@@ -1,0 +1,4 @@
+interface:
+  display_name: "disclosure-writer"
+  short_description: "代码证据驱动的技术交底起草、追溯与多轮复核工作流"
+  default_prompt: "Use $disclosure-writer in this repository for a code-grounded technical disclosure."

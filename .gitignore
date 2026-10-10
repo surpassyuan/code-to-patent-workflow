@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env*
+cases/
+private/
+*.pt
+*.npz
+*.npy
+*.docx
+*.pdf
+*.zip
+!vendor/**/*.docx
+!vendor/patent-disclosure-skill/skills/patent-oa/examples/example_oa_response/cases/
+!vendor/patent-disclosure-skill/skills/patent-oa/examples/example_oa_response/cases/**

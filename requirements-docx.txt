@@ -1,0 +1,5 @@
+# Optional export only; core workflow and unit tests use the Python standard library.
+python-docx>=1.1.0
+latex2mathml>=3.77.0
+playwright>=1.40.0
+PyYAML>=6.0

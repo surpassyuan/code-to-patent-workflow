@@ -1,0 +1,3 @@
+# Keep pinned vendor bytes identical on Windows and Linux checkouts.
+* text=auto
+vendor/** -text
